@@ -11,13 +11,14 @@ based on:
                                     with RoboMaster wheel control IMU
                                               "     controller unit
 
-  - Raspberry Pi 3B+ ![RB-LCD5](https://github.com/stmarx/robomaster/assets/73398331/a364217e-9693-4ebd-b1eb-19c407f2759d)
+  - Raspberry Pi 3B+
 
           - Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz.
           - 1GB LPDDR2 SDRAM.
           - 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN, Bluetooth 4.2, BLE.
           - Gigabit Ethernet over USB 2.0 (maximum throughput 300 Mbps)
           - Extended 40-pin GPIO header.
+ ![RB-LCD5](https://github.com/stmarx/robomaster/assets/73398331/a364217e-9693-4ebd-b1eb-19c407f2759d)
 
                                     with "Buster" Debian + Python 3.7 system
                                          5" Touchscreen  
