@@ -9,7 +9,7 @@ based on:
 ![550d879b426848a0ecd0baf7f7917c5c](https://github.com/stmarx/robomaster/assets/73398331/ab9c6cca-032b-41c7-b444-c02192a62ab1)
 
                                     with RoboMaster wheel control IMU
-                                                    controller unit
+                                              "     controller unit
 
   - Raspberry Pi 3B+ ![RB-LCD5](https://github.com/stmarx/robomaster/assets/73398331/a364217e-9693-4ebd-b1eb-19c407f2759d)
 
@@ -18,3 +18,11 @@ based on:
           - 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN, Bluetooth 4.2, BLE.
           - Gigabit Ethernet over USB 2.0 (maximum throughput 300 Mbps)
           - Extended 40-pin GPIO header.
+
+                                    with "Buster" Debian + Python 3.7 system
+                                         5" Touchscreen  
+                                         running Debian Desktop
+
+  - USB connections
+
+![image](https://github.com/stmarx/robomaster/assets/73398331/6b3fa041-44ba-41d0-901d-57b07908224c)
