@@ -1,7 +1,8 @@
 # robomaster
                 Solution to an Autonomous RoboMaster
 
-![RobomasterEPwithRaspberryPI](https://github.com/stmarx/robomaster/assets/73398331/c2851e47-167f-4261-8972-072110bde789)
+![RobomasterEPwithRaspberryPI](https://github.com/stmarx/robomaster/assets/73398331/667a3e07-b3e3-4f4f-bb21-65f63b97cee6)
+
 
 based on:
   - the RoboMaster EP robot hardware
