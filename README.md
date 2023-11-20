@@ -11,8 +11,8 @@ based on:
 
 ![550d879b426848a0ecd0baf7f7917c5c](https://github.com/stmarx/robomaster/assets/73398331/ab9c6cca-032b-41c7-b444-c02192a62ab1)
 
-                            with RoboMaster power connection module with control IMU (Inertial measurement unit)
-                                     "     intelligent controller unit
+                  with RoboMaster power connection module with control IMU (Inertial measurement unit)
+                            "     intelligent controller unit
 
   - Raspberry Pi 3B+
 
@@ -23,9 +23,9 @@ based on:
           - Extended 40-pin GPIO header.
     ![RaspberryPi3B+5ZollTouchscreen](https://github.com/stmarx/robomaster/assets/73398331/fed2b1cc-f7c3-4f94-b285-e52dac94c307)
 
-                                    with "Buster" Debian + Python 3.7 system
-                                         3,5" Touchscreen  
-                                         running Debian Desktop
+                with "Buster" Debian + Python 3.7 system
+                     3,5" Touchscreen  
+                     running Debian Desktop
 
   - USB connections
 
