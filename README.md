@@ -21,7 +21,7 @@ based on:
     ![RaspberryPi3B+5ZollTouchscreen](https://github.com/stmarx/robomaster/assets/73398331/fed2b1cc-f7c3-4f94-b285-e52dac94c307)
 
                                     with "Buster" Debian + Python 3.7 system
-                                         5" Touchscreen  
+                                         3,5" Touchscreen  
                                          running Debian Desktop
 
   - USB connections
