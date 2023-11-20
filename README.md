@@ -18,7 +18,7 @@ based on:
           - 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN, Bluetooth 4.2, BLE.
           - Gigabit Ethernet over USB 2.0 (maximum throughput 300 Mbps)
           - Extended 40-pin GPIO header.
-         ![RaspberryPi3B+5ZollTouchscreen](https://github.com/stmarx/robomaster/assets/73398331/fed2b1cc-f7c3-4f94-b285-e52dac94c307)
+    ![RaspberryPi3B+5ZollTouchscreen](https://github.com/stmarx/robomaster/assets/73398331/fed2b1cc-f7c3-4f94-b285-e52dac94c307)
 
                                     with "Buster" Debian + Python 3.7 system
                                          5" Touchscreen  
