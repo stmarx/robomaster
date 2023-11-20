@@ -1,4 +1,4 @@
-# robomaster
+# autonomous robomaster
                 Solution to an Autonomous RoboMaster
 
 ![RobomasterEPwithRaspberryPI](https://github.com/stmarx/robomaster/assets/73398331/667a3e07-b3e3-4f4f-bb21-65f63b97cee6)
