@@ -33,9 +33,9 @@ based on:
   - USB connections
 
 ![image](https://github.com/stmarx/robomaster/assets/73398331/6b3fa041-44ba-41d0-901d-57b07908224c)
-      Raspberry Pi 3B+ _________________________________ power connection module ________________ intelligent controller unit
+      Raspberry Pi 3B+ ______________________________ RM power connection module ________________ intelligent controller unit
 
-    - 5V to RM power connection module (RM power just sufficient for Raspberry Pi 3B+)
+    - 5V to RoboMaster power connection module (RM power just sufficient for Raspberry Pi 3B+)
     - a USB network to RM intelligent controller unit:
       activated by start of RNDIS on Debian Linux
           run a Linux BAT file (.sh) with the following commands:
