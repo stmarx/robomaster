@@ -31,6 +31,7 @@ based on:
 
 ![image](https://github.com/stmarx/robomaster/assets/73398331/6b3fa041-44ba-41d0-901d-57b07908224c)
       Raspberry Pi 3B+ _________________________________ power connection module ________________ intelligent controller unit
+
     - 5V to RM power connection module
     - net to RM intelligent controller unit
     activated by start of RNDIS in Debian Linux
