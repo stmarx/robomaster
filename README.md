@@ -40,10 +40,11 @@ based on:
           $ sudo dhclient -v usb0
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
-    install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
-    Package             Version
-    ------------------- --------
-    pip                 23.3.1
+
+    - install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
+        Package             Version
+        ------------------- --------
+        pip                 23.3.1
     colorzero           2.0
     Cython              3.0.5
     future              0.18.2
@@ -71,7 +72,7 @@ based on:
     testresources       2.0.1
     wheel               0.41.3
 
-  - Python editor connected to the RM Python 3.7
+  - Python editor Thonny connected to the RM Python 3.7
 
 optional:
 
