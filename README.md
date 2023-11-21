@@ -40,3 +40,5 @@ based on:
   - Python editor connected to the RM Python 3.7
 
   - LEGO Technic extenstions
+        - 4 LEGO Technic Beam 15
+        - 2 LEGO Technic Beam Frame 5
