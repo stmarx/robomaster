@@ -41,6 +41,7 @@ based on:
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
 
+
     - install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
         Package             Version
         ------------------- --------
