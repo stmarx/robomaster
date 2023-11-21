@@ -26,6 +26,9 @@ based on:
                 with "Buster" Debian + Python 3.7 system
                      3,5" Touchscreen  
                      running Debian Desktop
+                if the Raspberry Pi is connected to a Windows PC per WiFi,
+                the Linux/Debian desktop of the Raspberry Pi can be mirrored and controlled
+                per VNC interface of Linux/Debian and the RealVNC Viewer on the PC.
 
   - USB connections
 
@@ -33,11 +36,14 @@ based on:
       Raspberry Pi 3B+ _________________________________ power connection module ________________ intelligent controller unit
 
     - 5V to RM power connection module (RM power just sufficient for Raspberry Pi 3B+)
-    - USB network to RM intelligent controller unit
+    - a USB network to RM intelligent controller unit:
       activated by start of RNDIS on Debian Linux
-          run a Linux .sh with the following commands:
+          run a Linux BAT file (.sh) with the following commands:
           $ ifconfig
           $ sudo dhclient -v usb0
+      Save it under /usr/local/bin possibly with an extension ".sh"; perhaps the name could be "usbstart.sh".
+      Then you must give execution permission to that file, with chmod +x "$ usbstart.sh", or with a graphical tool.
+      Now you can type "$ usbstart.sh" in a console, or make a link (launcher) from the desktop to that file.
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
 
