@@ -87,3 +87,16 @@ optional:
   - LEGO Technic extenstions
         - 4 LEGO Technic Beam 15
         - 2 LEGO Technic Beam Frame 5
+
+  - DJI Phantom II steering RoboMaster per Remote Control
+
+      connected to the RM with Naza Flight controller
+        
+
+  - INOVATIONS to come
+
+    3D simulation of RoboMaster (possibly VR supported)
+
+    AR simulation
+
+    
