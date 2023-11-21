@@ -88,7 +88,7 @@ optional:
         - 4 LEGO Technic Beam 15
         - 2 LEGO Technic Beam Frame 5
 
-    distance sensors SHARP connected to the RM sensor adapters
+    distance sensors Sharp GP2Y0A21YK0F connected to the RM sensor adapters
 
   - DJI Phantom II steering RoboMaster per Remote Control
 
