@@ -41,13 +41,15 @@ based on:
           run a Linux BAT file (.sh) with the following commands:
           $ ifconfig
           $ sudo dhclient -v usb0
-      Save it under /usr/local/bin possibly with an extension ".sh"; perhaps the name could be "usbstart.sh".
+          
+      save it under /usr/local/bin possibly with an extension ".sh"; perhaps the name could be "usbstart.sh".
       Then you must give execution permission to that file, with chmod +x "$ usbstart.sh", or with a graphical tool.
       Now you can type "$ usbstart.sh" in a console, or make a link (launcher) from the desktop to that file.
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
 
-  -     install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
+        IMPORTANT:    
+        install the neccessary extensions under Python 3.7 and packages BEFORE you install "robomaster 0.1.1.62":
         Package             Version
         ------------------- --------
         pip                 23.3.1
@@ -78,7 +80,7 @@ based on:
         testresources       2.0.1
         wheel               0.41.3
 
-  - Python editor Thonny connected to the RM Python 3.7
+  - Python editor Thonny connected to the RM Python 3.7 system
 
 optional:
 
