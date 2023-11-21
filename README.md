@@ -88,10 +88,15 @@ optional:
         - 4 LEGO Technic Beam 15
         - 2 LEGO Technic Beam Frame 5
 
+    distance sensors SHARP connected to the RM sensor adapters
+
   - DJI Phantom II steering RoboMaster per Remote Control
 
-      connected to the RM with Naza Flight controller
-        
+      connected to the RM (to the power connection module IMU) with Naza Flight controller
+      steering per Phamtom II Remote Control
+
+
+
 
   - INOVATIONS to come
 
