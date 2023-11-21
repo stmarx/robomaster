@@ -92,10 +92,8 @@ optional:
 
   - DJI Phantom II steering RoboMaster per Remote Control
 
-      connected to the RM (to the power connection module IMU) with Naza Flight controller
-      steering per Phamtom II Remote Control
-
-
+        - connected to the RM (to the power connection module IMU) with Naza Flight controller
+        - steering per Phamtom II Remote Control
 
 
   - INOVATIONS to come
