@@ -34,7 +34,7 @@ based on:
 
     - 5V to RM power connection module (RM power just sufficient for Raspberry Pi 3B+)
     - USB network to RM intelligent controller unit
-      activated by start of RNDIS in Debian Linux
+      activated by start of RNDIS on Debian Linux
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
 
