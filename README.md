@@ -41,8 +41,13 @@ based on:
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
 
-
-    - install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
+    - 5V to RM power connection module (RM power just sufficient for Raspberry Pi 3B+)
+    - USB network to RM intelligent controller unit
+      activated by start of RNDIS on Debian Linux
+          run a Linux .sh with the following commands:
+          $ ifconfig
+          $ sudo dhclient -v usb0
+  -     - install neccessary extensions and packages before you install "robomaster 0.1.1.62" under Python 3.7:
         Package             Version
         ------------------- --------
         pip                 23.3.1
