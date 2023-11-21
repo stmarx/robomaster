@@ -35,8 +35,42 @@ based on:
     - 5V to RM power connection module (RM power just sufficient for Raspberry Pi 3B+)
     - USB network to RM intelligent controller unit
       activated by start of RNDIS on Debian Linux
+          run a Linux .sh with the following commands:
+          $ ifconfig
+          $ sudo dhclient -v usb0
 
   - the RoboMaster SDK as Python packackage "robomaster" on the Raspberry Pi
+
+    install neccessary extensions and packages before you install robomaster 0.1.1.62 under Python 3.7:
+Package             Version
+------------------- --------
+colorzero           2.0
+Cython              3.0.5
+future              0.18.2
+futures             3.0.5
+gast                0.2.2
+gpiozero            2.0
+h5py                3.8.0
+imageio             2.31.2
+Keras-Applications  1.0.8
+Keras-Preprocessing 1.1.1
+mock                3.0.5
+MyQR                2.3.1
+netaddr             0.8.0
+netifaces           0.10.0
+numpy               1.19.4
+opencv-python       4.8.1.78
+pbr                 6.0.0
+Pillow              9.5.0
+pip                 23.3.1
+pkg_resources       0.0.0
+protobuf            4.24.4
+pybind11            2.11.1
+pyserial            3.5
+setuptools          49.6.0
+six                 1.16.0
+testresources       2.0.1
+wheel               0.41.3
 
   - Python editor connected to the RM Python 3.7
 
