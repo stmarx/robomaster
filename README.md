@@ -1,5 +1,5 @@
 # autonomous robomaster
-                Solution to an Autonomous RoboMaster
+                Solution for an Autonomous RoboMaster
 RoboMaster EP comes equipped with a power connection module (with IMU) and an intelligent controller unit, missing a controlling computer.
 The solution is to mount a Raspberry Pi 3B+ via USB, that will control the RoboMaster running python programs on board.
 
